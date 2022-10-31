@@ -1,6 +1,12 @@
-# A simple hands-on project of a React App
+# A introductory hands-on project of Docker in building a React App
 
-## Key points learned
+## Key Points Learned
 
 - Create develope and production environments of the app in **docker** files
 - Simple **CI/CD** with GitHub Actions
+
+<br>
+
+__Source of the Project:__
+
+[Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) of <u>Stephen Grider</u> On Udemy
