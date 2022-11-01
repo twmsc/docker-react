@@ -1,4 +1,4 @@
-# A introductory hands-on project of Docker in building a React App
+# A hands-on project of using Docker in building a simple React App
 
 ## Key Points Learned
 
